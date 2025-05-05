@@ -7,7 +7,7 @@ This project explores customer transaction data from a FinTech company using a c
 
 ## Objectives
 - Use **SQL** to extract relevant field from the database
-- Perform data analysis using **Python (Pandas)**.
+- Perform data analysis using **Python (Pandas)**
 - Generate insights into all successful transactions that have occurred within a time frame, including both savings and investment transactions, along with key metrics like cash flow, deposits, withdrawals, and breakage fees
 
 ---
@@ -25,16 +25,16 @@ Fintech-Data-Analysis
 ##  Data Description
 The analysis is based on a sample FinTech dataset comprising:
 - **Customers**: Demographics like name, gender, and location
-- **Products**: Types of FinTech services (e.g., payments, savings).
+- **Products**: Types of FinTech services (e.g., payments, savings)
 - **Transactions**: Product usage by customers and transaction data
 
 ---
 
 ##  Tools & Technologies
 - **SQL**: Field extraction, data filtering, and joins
-- **Python**: Data manipulation and analysis.
+- **Python**: Data manipulation and analysis
   - `Pandas`
-- **Jupyter Notebook**: For interactive analysis.
+- **Jupyter Notebook**: For interactive analysis
 
 
   
